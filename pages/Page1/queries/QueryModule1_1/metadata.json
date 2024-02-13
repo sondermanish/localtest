@@ -1,0 +1,23 @@
+{
+  "moduleInstanceId": "Page1_QueryModule1_1",
+  "isPublic": true,
+  "rootModuleInstanceId": "Page1_QueryModule1_1",
+  "pluginType": "DB",
+  "pluginId": "postgres-plugin",
+  "unpublishedAction": {
+    "name": "_$QueryModule1_1$_QueryModule1",
+    "pageId": "Page1",
+    "contextType": "PAGE",
+    "isValid": true,
+    "invalids": [],
+    "messages": [],
+    "userSetOnLoad": false,
+    "confirmBeforeExecute": false,
+    "policies": [],
+    "userPermissions": [],
+    "createdAt": "2024-02-13T06:35:19Z"
+  },
+  "id": "Page1__$QueryModule1_1$_QueryModule1",
+  "deleted": false,
+  "gitSyncId": "65cb0e8745d69347d1f43ab4_65cb0ea745d69347d1f43ac5"
+}
